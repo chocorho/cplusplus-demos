@@ -61,7 +61,7 @@ class ModernTest {
 
 int main() {
 /*  ModernTest objA(); */ // this declares a wrong type!! A ptr to a function?
-  ModernTest objA();
+  ModernTest objA{};
   ModernTest objZ(127);
   objA.setSize(17);
   std::cout << "[DEBUG]    Just set size to 17" << std::endl;

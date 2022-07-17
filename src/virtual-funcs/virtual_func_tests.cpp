@@ -1,6 +1,6 @@
 /*
  *
- * This is a long-overdue set of tests to make sure that I really unerstand,
+ * This is a long-overdue set of tests to make sure that I really understand,
  * at a deep level, the use of the keyword `virtual`.
  *
  * I was always trained to use `virtual` whenever a subclass has an overridden
